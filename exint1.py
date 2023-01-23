@@ -4,6 +4,7 @@
 #for i in a:
  #   if i not in res:
  #       res.append(i)
+ # Terst
 #print(a)
 
 def newList(a):
